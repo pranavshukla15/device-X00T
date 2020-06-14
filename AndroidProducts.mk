@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_X00T.mk
+    $(LOCAL_DIR)/mokee_X00T.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_X00T-user \
-    aosp_X00T-userdebug \
-    aosp_X00T-eng
+    mokee_X00T-user \
+    mokee_X00T-userdebug \
+    mokee_X00T-eng
