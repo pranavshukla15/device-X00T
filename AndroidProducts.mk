@@ -15,7 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/mokee_X00T.mk
+    $(LOCAL_DIR)/ancient_X00T.mk
 
 COMMON_LUNCH_CHOICES := \
-    mokee_X00T-userdebug
+    ancient_X00T-userdebug
