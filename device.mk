@@ -391,7 +391,7 @@ PRODUCT_PACKAGES += \
 
 # Recovery
 PRODUCT_PACKAGES += \
-    librecovery_updater_X00T
+    librecovery_updater_X00TD
 
 # RIL
 PRODUCT_PACKAGES += \
