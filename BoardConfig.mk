@@ -22,7 +22,7 @@
 # definition file).
 #
 
-DEVICE_PATH := device/asus/X00T
+DEVICE_PATH := device/asus/X00TD
 
 BOARD_VENDOR := asus
 
@@ -229,7 +229,7 @@ PRODUCT_EXTRA_VNDK_VERSIONS := 28
 TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/rootdir/etc/recovery.fstab
 
 # Releasetools
-TARGET_RECOVERY_UPDATER_LIBS := librecovery_updater_X00T
+TARGET_RECOVERY_UPDATER_LIBS := librecovery_updater_X00TD
 TARGET_RELEASETOOLS_EXTENSIONS := $(DEVICE_PATH)
 
 # Power
