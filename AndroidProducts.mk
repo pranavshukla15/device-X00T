@@ -15,7 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ancient_X00T.mk
+    $(LOCAL_DIR)/ancient_X00TD.mk
 
 COMMON_LUNCH_CHOICES := \
-    ancient_X00T-userdebug
+    ancient_X00TD-userdebug
